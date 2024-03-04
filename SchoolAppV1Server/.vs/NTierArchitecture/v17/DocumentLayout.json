@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.NET\\NTierArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07DAC4A1-89C5-47AA-8391-D131ADCD2D0E}|NTierArchitecture.WebAPI\\NTierArchitecture.WebAPI.csproj|c:\\.net\\ntierarchitecture\\ntierarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DAC4A1-89C5-47AA-8391-D131ADCD2D0E}|NTierArchitecture.WebAPI\\NTierArchitecture.WebAPI.csproj|solutionrelative:ntierarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7326E898-279E-4F20-A9EC-071D1091B518}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|c:\\.net\\ntierarchitecture\\ntierarchitecture.business\\services\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7326E898-279E-4F20-A9EC-071D1091B518}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|solutionrelative:ntierarchitecture.business\\services\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7326E898-279E-4F20-A9EC-071D1091B518}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|c:\\.net\\ntierarchitecture\\ntierarchitecture.business\\services\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7326E898-279E-4F20-A9EC-071D1091B518}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|solutionrelative:ntierarchitecture.business\\services\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DAC4A1-89C5-47AA-8391-D131ADCD2D0E}|NTierArchitecture.WebAPI\\NTierArchitecture.WebAPI.csproj|c:\\.net\\ntierarchitecture\\ntierarchitecture.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DAC4A1-89C5-47AA-8391-D131ADCD2D0E}|NTierArchitecture.WebAPI\\NTierArchitecture.WebAPI.csproj|solutionrelative:ntierarchitecture.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7326E898-279E-4F20-A9EC-071D1091B518}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|c:\\.net\\ntierarchitecture\\ntierarchitecture.business\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7326E898-279E-4F20-A9EC-071D1091B518}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|solutionrelative:ntierarchitecture.business\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C03CE53-7054-47B1-BFE3-58AD510CDE56}|NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj|c:\\.net\\ntierarchitecture\\ntierarchitecture.dataaccess\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C03CE53-7054-47B1-BFE3-58AD510CDE56}|NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj|solutionrelative:ntierarchitecture.dataaccess\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7326E898-279E-4F20-A9EC-071D1091B518}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|c:\\.net\\ntierarchitecture\\ntierarchitecture.business\\constants\\messageconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7326E898-279E-4F20-A9EC-071D1091B518}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|solutionrelative:ntierarchitecture.business\\constants\\messageconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D696428-6747-4580-94B5-8F08EE066C84}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|c:\\.net\\ntierarchitecture\\ntierarchitecture.entities\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D696428-6747-4580-94B5-8F08EE066C84}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|solutionrelative:ntierarchitecture.entities\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D696428-6747-4580-94B5-8F08EE066C84}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|c:\\.net\\ntierarchitecture\\ntierarchitecture.entities\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D696428-6747-4580-94B5-8F08EE066C84}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|solutionrelative:ntierarchitecture.entities\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C03CE53-7054-47B1-BFE3-58AD510CDE56}|NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj|c:\\.net\\ntierarchitecture\\ntierarchitecture.dataaccess\\repositories\\classroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C03CE53-7054-47B1-BFE3-58AD510CDE56}|NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj|solutionrelative:ntierarchitecture.dataaccess\\repositories\\classroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DAC4A1-89C5-47AA-8391-D131ADCD2D0E}|NTierArchitecture.WebAPI\\NTierArchitecture.WebAPI.csproj|c:\\.net\\ntierarchitecture\\ntierarchitecture.webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{07DAC4A1-89C5-47AA-8391-D131ADCD2D0E}|NTierArchitecture.WebAPI\\NTierArchitecture.WebAPI.csproj|solutionrelative:ntierarchitecture.webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C03CE53-7054-47B1-BFE3-58AD510CDE56}|NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj|c:\\.net\\ntierarchitecture\\ntierarchitecture.dataaccess\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C03CE53-7054-47B1-BFE3-58AD510CDE56}|NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj|solutionrelative:ntierarchitecture.dataaccess\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DAC4A1-89C5-47AA-8391-D131ADCD2D0E}|NTierArchitecture.WebAPI\\NTierArchitecture.WebAPI.csproj|c:\\.net\\ntierarchitecture\\ntierarchitecture.webapi\\controllers\\seeddatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DAC4A1-89C5-47AA-8391-D131ADCD2D0E}|NTierArchitecture.WebAPI\\NTierArchitecture.WebAPI.csproj|solutionrelative:ntierarchitecture.webapi\\controllers\\seeddatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "NTierArchitecture.WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T15:47:06.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.Business\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.Business\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.Business\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "NTierArchitecture.Business\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T15:46:53.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.Business\\Services\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.Business\\Services\\IJwtProvider.cs",
+              "ToolTip": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.Business\\Services\\IJwtProvider.cs",
+              "RelativeToolTip": "NTierArchitecture.Business\\Services\\IJwtProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T15:45:41.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.Business\\Services\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.Business\\Services\\JwtProvider.cs",
+              "ToolTip": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.Business\\Services\\JwtProvider.cs",
+              "RelativeToolTip": "NTierArchitecture.Business\\Services\\JwtProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T15:44:27.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessageConstants.cs",
+              "DocumentMoniker": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.Business\\Constants\\MessageConstants.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.Business\\Constants\\MessageConstants.cs",
+              "ToolTip": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.Business\\Constants\\MessageConstants.cs",
+              "RelativeToolTip": "NTierArchitecture.Business\\Constants\\MessageConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T09:56:55.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClassRoomRepository.cs",
+              "DocumentMoniker": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.DataAccess\\Repositories\\ClassRoomRepository.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.DataAccess\\Repositories\\ClassRoomRepository.cs",
+              "ToolTip": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.DataAccess\\Repositories\\ClassRoomRepository.cs",
+              "RelativeToolTip": "NTierArchitecture.DataAccess\\Repositories\\ClassRoomRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T19:38:01.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.DataAccess\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.DataAccess\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.DataAccess\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "NTierArchitecture.DataAccess\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T19:37:44.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.WebAPI\\Program.cs",
+              "ToolTip": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.WebAPI\\Program.cs",
+              "RelativeToolTip": "NTierArchitecture.WebAPI\\Program.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAH0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T19:37:36.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WebAPI.http",
+              "DocumentMoniker": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.WebAPI\\WebAPI.http",
+              "RelativeDocumentMoniker": "NTierArchitecture.WebAPI\\WebAPI.http",
+              "ToolTip": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.WebAPI\\WebAPI.http",
+              "RelativeToolTip": "NTierArchitecture.WebAPI\\WebAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-02-20T19:37:34.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClassRoom.cs",
+              "DocumentMoniker": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.Entities\\Models\\ClassRoom.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.Entities\\Models\\ClassRoom.cs",
+              "ToolTip": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.Entities\\Models\\ClassRoom.cs",
+              "RelativeToolTip": "NTierArchitecture.Entities\\Models\\ClassRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T23:25:19.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.Entities\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.Entities\\Models\\Student.cs",
+              "ToolTip": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.Entities\\Models\\Student.cs",
+              "RelativeToolTip": "NTierArchitecture.Entities\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T23:25:02.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.DataAccess\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.DataAccess\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.DataAccess\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "NTierArchitecture.DataAccess\\Repositories\\StudentRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wCYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T23:02:27.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SeedDataController.cs",
+              "DocumentMoniker": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.WebAPI\\Controllers\\SeedDataController.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.WebAPI\\Controllers\\SeedDataController.cs",
+              "ToolTip": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.WebAPI\\Controllers\\SeedDataController.cs",
+              "RelativeToolTip": "NTierArchitecture.WebAPI\\Controllers\\SeedDataController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA9wBgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T23:00:52.362Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1511,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 140,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
