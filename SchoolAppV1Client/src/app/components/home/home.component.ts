@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, ElementRef, ViewChild, viewChild } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule, NgForm, NgModel } from '@angular/forms';
 
@@ -7,6 +7,7 @@ import { StudentModel } from '../../Models/student.model';
 import { StudentPipe } from '../pipes/student.pipe';
 import { HttpService } from '../../services/http.service';
 import { FormValidateDirective } from 'form-validate-angular';
+import { SwalService } from '../../services/swal.service';
 
 @Component({
   selector: 'app-home',
@@ -19,15 +20,18 @@ export class HomeComponent {
   classRooms: ClassRoomModel[] = [];
   students: StudentModel[] = [];
 
+  @ViewChild("studentAddModalCloseBtn") studentAddModalCloseBtn: ElementRef<HTMLButtonElement> | undefined;
+
   addStudentModel:StudentModel = new StudentModel();
-  updatetudentModel:StudentModel = new StudentModel();
+  updateStudentModel:StudentModel = new StudentModel();
 
   selectedRoomId: string = "";
   search: string = "";
 
 
   constructor(
-    private http: HttpService) {
+    private http: HttpService,
+    private swal: SwalService) {
     this.getAllClassRooms();
   }
 
@@ -61,16 +65,26 @@ export class HomeComponent {
     });
   }
 
-  createStudent(from:NgForm){
-    if(from.valid){
-      if(this.addStudentModel.classRoomId == "0"){
+  createStudent(form:NgForm){
+    if(form.valid){
+      if(this.addStudentModel.classRoomId === "0"){
         alert("You must select a class room");
         return;
       }
       this.http.post("Students/Create",this.addStudentModel, (res)=>{
-
+        console.log(res);
+        this.studentAddModalCloseBtn?.nativeElement.click();
+        this.swal.callToast(res.message);
+        this.getAllStudentsByClassRoomId(this.addStudentModel.classRoomId);
       })
+    }
+  }
 
+  clearAddStudentModel(){
+    this.addStudentModel = new StudentModel();
+    const inputs = document.querySelectorAll(".form-control.is-invalid");
+    for(let i in inputs){
+      inputs[i].classList.remove("is-invalid");
     }
   }
 }

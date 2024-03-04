@@ -36,7 +36,12 @@ public sealed class StudentRepository(AppDbContext context) : IStudentRepository
     } 
     public int GetNewStudentNumber()
     {
-        int lastStudentNumber = context.Students.Max(p => p.StudentNumber);
+
+        int lastStudentNumber = context.Students
+       .Select(p => (int?)p.StudentNumber)
+       .DefaultIfEmpty() // Eğer sonuç seti boş ise varsayılan olarak null döndürür.
+       .Max() ?? 0; // null ise 0 değerini kullan
+
         if (lastStudentNumber <= 100) lastStudentNumber = 100;
         lastStudentNumber++;
 

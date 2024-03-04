@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5a4uefffiP6YipYZ4aNqv6sTugBiHqocFeeQipcsLVB2qJHiHQfbo/kmul3TyRekGn7781eTJc27L2nEYyCjDw==",
+  "dgSpecHash": "4tpLPb3GAgiKfkd7UI0AQfEg7McM2+52d7KfgDWzrUkfE7/ZVnDs4jv3ojJvciyfuJYxCDBfI0M5IWJbR1AohQ==",
   "success": true,
-  "projectFilePath": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.WebAPI\\NTierArchitecture.WebAPI.csproj",
+  "projectFilePath": "C:\\SchoolAppProjectV1\\SchoolAppV1Server\\NTierArchitecture.WebAPI\\NTierArchitecture.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ercan\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\ercan\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

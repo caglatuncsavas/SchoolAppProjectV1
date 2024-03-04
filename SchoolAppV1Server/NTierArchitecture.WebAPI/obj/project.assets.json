@@ -4474,11 +4474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.WebAPI\\NTierArchitecture.WebAPI.csproj",
+      "projectUniqueName": "C:\\SchoolAppProjectV1\\SchoolAppV1Server\\NTierArchitecture.WebAPI\\NTierArchitecture.WebAPI.csproj",
       "projectName": "NTierArchitecture.WebAPI",
-      "projectPath": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.WebAPI\\NTierArchitecture.WebAPI.csproj",
+      "projectPath": "C:\\SchoolAppProjectV1\\SchoolAppV1Server\\NTierArchitecture.WebAPI\\NTierArchitecture.WebAPI.csproj",
       "packagesPath": "C:\\Users\\ercan\\.nuget\\packages\\",
-      "outputPath": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.WebAPI\\obj\\",
+      "outputPath": "C:\\SchoolAppProjectV1\\SchoolAppV1Server\\NTierArchitecture.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ercan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4495,14 +4495,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\.NET\\NTierArchitecture\\NTierArchitecture.Business\\NTierArchitecture.Business.csproj": {
-              "projectPath": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.Business\\NTierArchitecture.Business.csproj"
+            "C:\\SchoolAppProjectV1\\SchoolAppV1Server\\NTierArchitecture.Business\\NTierArchitecture.Business.csproj": {
+              "projectPath": "C:\\SchoolAppProjectV1\\SchoolAppV1Server\\NTierArchitecture.Business\\NTierArchitecture.Business.csproj"
             },
-            "C:\\.NET\\NTierArchitecture\\NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj": {
-              "projectPath": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj"
+            "C:\\SchoolAppProjectV1\\SchoolAppV1Server\\NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj": {
+              "projectPath": "C:\\SchoolAppProjectV1\\SchoolAppV1Server\\NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj"
             },
-            "C:\\.NET\\NTierArchitecture\\NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj": {
-              "projectPath": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj"
+            "C:\\SchoolAppProjectV1\\SchoolAppV1Server\\NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj": {
+              "projectPath": "C:\\SchoolAppProjectV1\\SchoolAppV1Server\\NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj"
             }
           }
         }

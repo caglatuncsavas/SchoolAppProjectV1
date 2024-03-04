@@ -30,6 +30,7 @@ public class SeedDataController(
                 identityNumber = Math.Ceiling(faker.Person.Random.Decimal(11111111111, 999999999998)).ToString();
             }
 
+
             Student student = new()
             {
                 ClassRoomId = classRooms[random.Next(0, classRooms.Count)].Id,
@@ -45,6 +46,7 @@ public class SeedDataController(
             context.Add(student);
             context.SaveChanges();
         }
+
         return NoContent();
     }
 }

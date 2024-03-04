@@ -34,7 +34,7 @@
       </div>
       <div class="card-body">
         <!-- Add Student Button -->
-        <button class="btn btn-primary btn-sm mb-1" data-toggle="modal" data-target="#studentAddModal">
+        <button class="btn btn-primary btn-sm mb-1" data-toggle="modal" data-target="#addStudentModel">
           Add Student
         </button>
         <!-- Card -->
@@ -105,13 +105,13 @@
 </div>
 
 <!-- Student Add Modal -->
-<div class="modal fade" id="studentAddModel" data-backdrop="static" data-keyboard="false" tabindex="-1"
+<div class="modal fade" id="addStudentModel" data-backdrop="static" data-keyboard="false" tabindex="-1"
   aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered">
     <div class="modal-content">
       <div class="modal-header">
         <h1 class="modal-title fs-5">Add Student</h1>
-        <button type="button" class="btn" #studentAddModalCloseBtn data-dismiss="modal" aria-label="Close">
+        <button type="button" class="btn" (click)="clearAddStudentModel()"  #studentAddModalCloseBtn data-dismiss="modal" aria-label="Close">
           <i class="fa-solid fa-x"></i>
         </button>
       </div>

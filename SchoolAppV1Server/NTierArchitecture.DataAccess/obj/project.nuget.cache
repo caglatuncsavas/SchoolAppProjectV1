@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WxC6yGW2lCApGEMDwPVOiSF44CAoxiVReZFl3p/6k6u/5Cm/3fF6wej46aHzj6WNcnl1gTvQRwza5xPkUMCglA==",
+  "dgSpecHash": "eG0opl2EzikNfguVEoka8EDbafQKH/Skzw0nslxDDQSXQ6HZ2wXwBQxk2Kaw0LkYr7r4bxo0UcRiN76ondG1eA==",
   "success": true,
-  "projectFilePath": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj",
+  "projectFilePath": "C:\\SchoolAppProjectV1\\SchoolAppV1Server\\NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ercan\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\ercan\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

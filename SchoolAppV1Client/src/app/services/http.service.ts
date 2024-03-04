@@ -1,6 +1,7 @@
 import { HttpClient, HttpErrorResponse } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { AuthService } from './auth.service';
+import { SwalService } from './swal.service';
 
 @Injectable({
   providedIn: 'root'
@@ -9,7 +10,8 @@ export class HttpService {
 
   constructor(
     private http: HttpClient,
-    private auth: AuthService) { }
+    private auth: AuthService,
+    private swal: SwalService) { }
 
   get(api: string, callBack: (res:any)=>void) {
     this.http.get(`https://localhost:7234/api/${api}`, {
@@ -36,6 +38,7 @@ export class HttpService {
         callBack(res);
       },
       error: (err: HttpErrorResponse) => {
+        this.swal.callToast(err.error.message, "error");
         console.log(err);
       }
     });

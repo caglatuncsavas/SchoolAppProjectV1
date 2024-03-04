@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gpHDs4tHUm+r19wvofaQs9kLbG4tAMsp4WEMgGKirNCRXvaFVzAZmOGwBCZIUJ/K57sDzZp/rYaUcDZHdEL8Ww==",
+  "dgSpecHash": "hGzUtPfpSbqEZ1r1d4Ox8OMFmf4ONrm0AZDqfLHVSk8Ox5mEOwRuV4GTsUOGnI6G3jpvmV5CX78aGAaqBkijpw==",
   "success": true,
-  "projectFilePath": "C:\\.NET\\NTierArchitecture\\NTierArchitecture.Business\\NTierArchitecture.Business.csproj",
+  "projectFilePath": "C:\\SchoolAppProjectV1\\SchoolAppV1Server\\NTierArchitecture.Business\\NTierArchitecture.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ercan\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\ercan\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
