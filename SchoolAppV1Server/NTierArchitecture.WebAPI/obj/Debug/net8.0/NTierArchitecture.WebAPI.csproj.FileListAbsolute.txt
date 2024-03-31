@@ -304,3 +304,4 @@ C:\SchoolAppProjectV1\SchoolAppV1Server\NTierArchitecture.WebAPI\obj\Debug\net8.
 C:\SchoolAppProjectV1\SchoolAppV1Server\NTierArchitecture.WebAPI\obj\Debug\net8.0\NTierArchitecture.WebAPI.pdb
 C:\SchoolAppProjectV1\SchoolAppV1Server\NTierArchitecture.WebAPI\obj\Debug\net8.0\NTierArchitecture.WebAPI.genruntimeconfig.cache
 C:\SchoolAppProjectV1\SchoolAppV1Server\NTierArchitecture.WebAPI\obj\Debug\net8.0\ref\NTierArchitecture.WebAPI.dll
+C:\SchoolAppProjectV1\SchoolAppV1Server\NTierArchitecture.WebAPI\bin\Debug\net8.0\EntityFrameworkCorePagination.Nuget.dll

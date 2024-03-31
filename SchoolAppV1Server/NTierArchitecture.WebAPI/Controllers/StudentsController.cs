@@ -39,10 +39,11 @@ public class StudentsController(
         return Ok(response);
     }
 
-    [HttpGet]
-    public IActionResult GetAllByClassRoomId(Guid classRoomId)
+    [HttpPost]
+    public async Task<IActionResult> GetAllByClassRoomId(PaginationRequestDto request)
     {
-        var response = studentService.GetAllByClassRoomId(classRoomId);
+        var response = await studentService.GetAllByClassRoomIdAsync(request);
+        
         return Ok(response);
     }
 }

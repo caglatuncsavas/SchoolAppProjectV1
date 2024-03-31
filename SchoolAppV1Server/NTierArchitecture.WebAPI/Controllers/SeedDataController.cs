@@ -18,7 +18,7 @@ public class SeedDataController(
         var classRooms = context.ClassRooms.ToList();
         var random = new Random();
 
-        for (int i = 0; i < 1000; i++)
+        for (int i = 0; i < 10000; i++)
         {
             Faker faker = new();
 
